@@ -56,9 +56,9 @@
   </tr>
  <tr>
   <td>
-    <img src="https://github.com/mitxdd/mitwalls/blob/main/previews/squarcles-pack/squarcle-7.webp" alt="im-7" />
+    <img src="https://github.com/mitxdd/mitwalls/blob/main/previews/squarcles-pack/Squarcle-7.webp" alt="im-7" />
     <br><br>
-    <a href="https://github.com/mitxdd/mitwalls/releases/download/squarcles-pack-v1/Squarcle-7.png">
+    <a href="https://github.com/mitxdd/mitwalls/releases/download/squarcles-pack-v1/squarcle-7.png">
       <b>Download</b>
     </a>
   </td>
@@ -86,7 +86,7 @@
     </a>
   </td>
   <td>
-    <img src="https://github.com/mitxdd/mitwalls/blob/main/previews/squarcles-pack/squarcle-11.webp" alt="im-11" />
+    <img src="https://github.com/mitxdd/mitwalls/blob/main/previews/squarcles-pack/squarcle-111.png" alt="im-11" />
     <br><br>
     <a href="https://github.com/mitxdd/mitwalls/releases/download/squarcles-pack-v1/squarcle-11.png">
       <b>Download</b>
