@@ -25,8 +25,7 @@ Wallpapers only Made with Shape 'Squarcle'. Contains 11 Wallpapers of 16:9 Ratio
 ---
 ## Download
 - You can Download either Whole Packs or Individuals by Clicking The Links.
-- OR Go to Release Page and Select Your Favorite Pack and Download from Assets
-
+- OR Go to Release Page and Select Your Favorite wallpaper and Click on it
 ---
 ## Support The Project
 - Give Star to the Project ✨
