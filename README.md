@@ -29,8 +29,9 @@ Wallpapers only Made with Shape 'Squarcle'. Contains 11 Wallpapers of 16:9 Ratio
 
 ---
 ## Support The Project
-- You can support this project by Subscribing to my [YouTube channel](https://www.youtube.com/@mitxd)
-- OR Give Star to the Project ✨
+- Give Star to the Project ✨
+- OR You can support this project by Subscribing to my [YouTube channel](https://www.youtube.com/@mitxd)
+
 
 ---
 ## About This Project
