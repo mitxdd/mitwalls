@@ -1,5 +1,3 @@
-![MitWalls-Banner](mitwalls-banner.png)
-
 <kbd>
   <img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 25px;" />
 </kbd>
@@ -9,6 +7,8 @@
 ---
 
 ## Squarcles Pack v1
+
+<img src="https://github.com/mitxdd/mitwalls/blob/main/previews/squarcles-pack/preview.png"/>
 
 
 <div align="center">
