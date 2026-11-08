@@ -1,8 +1,8 @@
 ![MitWalls-Banner](mitwalls-banner.png)
 
-<div>
+<kbd>
   <img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 25px;" />
-</div>
+</kbd>
 
 <p align="center"> Original 4K Wallpapers for Every Mood</p>
 
