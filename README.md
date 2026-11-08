@@ -1,4 +1,10 @@
 ![MitWalls-Banner](mitwalls-banner.png)
+
+<div>
+  <img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 15px; />
+</div>
+<img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 15px; />
+
 <p align="center"> Original 4K Wallpapers for Every Mood</p>
 
 ---
@@ -10,7 +16,7 @@
   <a href="https://github.com/mitxdd/mitwalls/releases/download/squarcles-pack-v1/squarcles-pack.zip">
         <img src="https://img.shields.io/badge/Download_Pack-.zip-blue?style=for-the-badge&logo=archive" alt="Download Pack" />
       </a>
-  <a href="https://github.com/mitxdd/mitwalls/releases/download/squarcles-pack-v1/squarcles-pack.zip">
+  <a href="https://github.com/mitxdd/mitwalls/tree/main/previews/squarcles-pack/README.md">
         <img src="https://img.shields.io/badge/Show Wallpapers-red?style=for-the-badge&logo=archive" alt="Download Pack" />
       </a>
 </div>
