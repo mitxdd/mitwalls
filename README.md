@@ -2,7 +2,7 @@
   <img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 25px;" />
 </kbd>
 
-<h3 align="center"> Original 4K Wallpapers for Every Mood. Made in Mobile for Mobile</h3>
+<h3 align="center"> Original 4K Wallpapers for Every Mood. Made in Mobile for Mobile and Desktop</h3>
 
 ---
 
