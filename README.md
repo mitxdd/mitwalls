@@ -2,11 +2,12 @@
   <img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 25px;" />
 </kbd>
 
-<p align="center"> Original 4K Wallpapers for Every Mood</p>
+<h3 align="center"> Original 4K Wallpapers for Every Mood. Made in Mobile for Mobile</h3>
 
 ---
 
 ## Squarcles Pack v1
+Wallpapers only Made with Shape 'Squarcle'. Contains 11 Wallpapers of 16:9 Ratio
 
 <img src="https://github.com/mitxdd/mitwalls/blob/main/previews/squarcles-pack/preview.png"/>
 
@@ -20,15 +21,10 @@
       </a>
 </div>
 
----
-## Total Packs
-- Squarcles Pack v1: The Wallpapers only Made with Shape 'Squarcle'
-- Chromatic Pack v1: Aesthetic Smooth Chromatics in Every Wallpaper
-- More in Progress
 
 ---
 ## Download
-- You can Download either Whole Packs or Individuals by Clicking the Links.
+- You can Download either Whole Packs or Individuals by Clicking The Links.
 - OR Go to Release Page and Select Your Favorite Pack and Download from Assets
 
 ---
@@ -38,7 +34,9 @@
 
 ---
 ## About This Project
-> Every Wallpaper is Made by Human, No Generative AI was Used in Making of Any Wallpapers or Even any Assets in Repository.
+> Every Wallpaper is Made by A Human, No Generative AI was Used in Making of Any Wallpapers or Even any Assets in Repository.
+
+BTW You can Use These Wallpaers in Desktop by Obviously Rotating them 😅
 
 ---
-*Made with ❤️ from A Guy who wants to Learn Everything*
+<h3 align="center">Made with ❤️ from A Guy who wants to Learn Everything</h3>
