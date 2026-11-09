@@ -2,7 +2,7 @@
   <img src="https://github.com/mitxdd/mitwalls/blob/main/mitwalls-banner.png" style="border-radius: 25px;" />
 </kbd>
 
-<h3 align="center"> Original 4K Wallpapers for Every Mood. Made in Mobile for Mobile</h3>
+<h3 align="center"> Original 4K Wallpapers for Every Mood. Made in Mobile for Mobile and Desktop</h3>
 
 ---
 
@@ -25,12 +25,11 @@ Wallpapers only Made with Shape 'Squarcle'. Contains 11 Wallpapers of 16:9 Ratio
 ---
 ## Download
 - You can Download either Whole Packs or Individuals by Clicking The Links.
-- OR Go to Release Page and Select Your Favorite Pack and Download from Assets
-
+- OR Go to Release Page and Select Your Favorite wallpaper and Click on it
 ---
 ## Support The Project
-- You can support this project by Subscribing to my [YouTube channel](https://www.youtube.com/@mitxd)
-- OR Give Star to the Project ✨
+- Give Star to the Project ✨ (currently thats only way)
+
 
 ---
 ## About This Project
