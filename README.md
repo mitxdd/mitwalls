@@ -21,11 +21,23 @@ Wallpapers only Made with Shape 'Squarcle'. Contains 11 Wallpapers of 16:9 Ratio
       </a>
 </div>
 
-
 ---
-## Download
-- You can Download either Whole Packs or Individuals by Clicking The Links.
-- OR Go to Release Page and Select Your Favorite wallpaper and Click on it
+
+## Chromatic Pack v1
+
+<img src="https://github.com/mitxdd/mitwalls/blob/main/previews/chromatic-pack/preview.png"/>
+
+
+<div align="center">
+  <a href="https://github.com/mitxdd/mitwalls/releases/download/chromatic-pack-v1/chromatic-pack.zip">
+        <img src="https://img.shields.io/badge/Download_Pack-.zip-blue?style=for-the-badge&logo=archive" alt="Download Pack" />
+      </a>
+  <a href="https://github.com/mitxdd/mitwalls/tree/main/previews/chromatic-pack/README.md">
+        <img src="https://img.shields.io/badge/Show Wallpapers-red?style=for-the-badge&logo=archive" alt="Download Pack" />
+      </a>
+</div>
+
+
 ---
 ## Support The Project
 - Give Star to the Project ✨ (currently thats only way)
@@ -38,4 +50,4 @@ Wallpapers only Made with Shape 'Squarcle'. Contains 11 Wallpapers of 16:9 Ratio
 BTW You can Use These Wallpaers in Desktop by Obviously Rotating them 😅
 
 ---
-<h3 align="center">Made with ❤️ from A Guy who wants to Learn Everything</h3>
+<h4 align="center">Made with ❤️ from A Guy who wants to Learn Everything</h4>
